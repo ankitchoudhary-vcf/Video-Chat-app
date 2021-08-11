@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ankit1509/github.io/Video-Chat-app/static/css/main.7d839273.chunk.css",
+    "main.js": "/ankit1509/github.io/Video-Chat-app/static/js/main.a8315dc3.chunk.js",
+    "main.js.map": "/ankit1509/github.io/Video-Chat-app/static/js/main.a8315dc3.chunk.js.map",
+    "runtime-main.js": "/ankit1509/github.io/Video-Chat-app/static/js/runtime-main.23b0d061.js",
+    "runtime-main.js.map": "/ankit1509/github.io/Video-Chat-app/static/js/runtime-main.23b0d061.js.map",
+    "static/js/2.12e0de4d.chunk.js": "/ankit1509/github.io/Video-Chat-app/static/js/2.12e0de4d.chunk.js",
+    "static/js/2.12e0de4d.chunk.js.map": "/ankit1509/github.io/Video-Chat-app/static/js/2.12e0de4d.chunk.js.map",
+    "index.html": "/ankit1509/github.io/Video-Chat-app/index.html",
+    "static/css/main.7d839273.chunk.css.map": "/ankit1509/github.io/Video-Chat-app/static/css/main.7d839273.chunk.css.map",
+    "static/js/2.12e0de4d.chunk.js.LICENSE.txt": "/ankit1509/github.io/Video-Chat-app/static/js/2.12e0de4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23b0d061.js",
+    "static/js/2.12e0de4d.chunk.js",
+    "static/css/main.7d839273.chunk.css",
+    "static/js/main.a8315dc3.chunk.js"
+  ]
+}
