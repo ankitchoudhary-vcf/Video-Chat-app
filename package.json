@@ -1,7 +1,7 @@
 {
   "name": "vedio_calling_app",
   "version": "0.1.0",
-  "homepage": "https://ankit1509/github.io/Video-Chat-app/",
+  "homepage": "https://ankit1509.github.io/Video-Chat-app/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
